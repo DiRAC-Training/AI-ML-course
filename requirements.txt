@@ -1,0 +1,19 @@
+#software packages
+tensorflow
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+
+#data
+h5py
+tables
+tqdm
+
+#environment
+jupyter
+notebook
+ipykernel
+ipywidgets
