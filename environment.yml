@@ -3,9 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - jupyterhub-ltiauthenticator
   - python=3.10
-  - tensorflow
   - numpy
   - pandas
   - scipy
@@ -15,7 +13,4 @@ dependencies:
   - h5py
   - pytables
   - tqdm
-  - jupyter
-  - notebook
-  - ipykernel
   - ipywidgets
