@@ -1,9 +1,8 @@
 name: ai-ml-course
 channels:
   - conda-forge
-  - defaults
 dependencies:
-  - python=3.10
+  - python=3.12
   - numpy
   - pandas
   - scipy
@@ -14,3 +13,6 @@ dependencies:
   - pytables
   - tqdm
   - ipywidgets
+  - pip
+  - pip:
+      - tensorflow==2.21.0
